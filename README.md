@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Brian
-- 👀 I’m interested in IoT and Web Development
-- 🌱 I’m currently learning Web Development
-- 💞️ I’m looking to collaborate on Smart City and Front End Pojects
+- 👀 I’m interested in IoT and Devops
+- 💞️ I’m looking to collaborate IoT and Devops Pojects
 - 📫 briansadock@gmail.com
 
 <!---
